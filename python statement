@@ -1,0 +1,11 @@
+#if elif and else statement
+loc = 'bank
+if loc = 'auto shop' :
+  print('cars are cool!')
+  elif = ' Bank '
+   print('money is cool!")
+  elif = 'store':
+   print('welcome to my store')
+  else :
+   print('i dont know much')
+   
