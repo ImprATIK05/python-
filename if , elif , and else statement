@@ -1,0 +1,16 @@
+loc = "store"
+if loc == 'auto shop ':
+ print  ("cars are cool")
+elif loc == 'bank':
+ print("Money is cool")
+elif loc == 'store ':
+ print('welcome to store ')
+else:
+ print('i dont know anything')
+ 
+ 
+ 
+ 
+output--
+
+welcome to store 
